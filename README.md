@@ -1,7 +1,6 @@
 # InTime
 
 [![Build](https://travis-ci.org/steffenbrand/in-time.svg?branch=master)](https://travis-ci.org/steffenbrand/in-time)
-[![Coverage](https://codecov.io/github/steffenbrand/in-time/coverage.svg)](https://codecov.io/gh/steffenbrand/in-time)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/steffenbrand/in-time/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/steffenbrand/in-time/?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/steffenbrand/in-time/version)](https://packagist.org/packages/steffenbrand/in-time)
 [![Latest Unstable Version](https://poser.pugx.org/steffenbrand/in-time/v/unstable)](//packagist.org/packages/steffenbrand/in-time)
