@@ -9,7 +9,5 @@ namespace SteffenBrand\InTime;
  */
 class Milliseconds
 {
-
     const IN_MICROSECONDS = 1000;
-
 }
