@@ -1,0 +1,38 @@
+{
+    "name": "steffenbrand/in-time",
+    "description": "Helper to convert years, days, hours, minutes, seconds and milliseconds to smaller time units.",
+    "keywords": [
+        "convert",
+        "seconds"
+    ],
+    "homepage": "https://github.com/steffenbrand/in-time",
+    "license": "Unlicense",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Steffen Brand",
+            "email": "s.brand@steffenbrand.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "SteffenBrand\\InTime\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SteffenBrand\\InTime\\Test\\": "test/"
+        }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
