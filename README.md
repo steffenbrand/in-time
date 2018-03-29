@@ -10,8 +10,8 @@
 
 Helper to convert years, days, hours, minutes, seconds and milliseconds to smaller time units.
 
-* [CurrCurr on Packagist](https://packagist.org/packages/steffenbrand/in-time)
-* [CurrCurr on GitHub](https://github.com/steffenbrand/in-time)
+* [InTime on Packagist](https://packagist.org/packages/steffenbrand/in-time)
+* [InTime on GitHub](https://github.com/steffenbrand/in-time)
 
 ## How to install
 
